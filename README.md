@@ -1,9 +1,12 @@
+[![Discord][discord-shield]][discord-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
 
+[discord-shield]: https://img.shields.io/discord/1454918816596496496?style=for-the-badge
+[discord-url]: https://discord.gg/fMSNVmxKfN
 [contributors-shield]: https://img.shields.io/github/contributors/DodoraApp/DodoStream.svg?style=for-the-badge
 [contributors-url]: https://github.com/DodoraApp/DodoStream/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/DodoraApp/DodoStream.svg?style=for-the-badge
@@ -96,9 +99,11 @@ This project is under active development. Expect occasional breaking changes, un
 - [ ] Deep Linking support
 - [ ] "Random" / Shuffle Play
 - [ ] Onboarding wizard
+- [ ] MPV Player Support
 
 ### More Settings / Customization
 
+- [ ] Addons enabled per-profile 
 - [ ] Auto Select First Stream (skip stream selection screen)
 - [ ] Subtitles Style/Size etc.
 - [ ] Audio/Subtitle Delay adjustment
@@ -122,6 +127,7 @@ This project is under active development. Expect occasional breaking changes, un
 - [ ] Recently added / Trending / Random rails on home
 - [ ] Badge chips for quality (4K, HDR, Dolby Atmos)
 - [ ] Show "Ends at" time when playing & current system time
+- [ ] Adaptive Frame Rate Support
 
 ### Full Stremio Addon SDK Support
 
